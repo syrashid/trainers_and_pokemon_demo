@@ -1,3 +1,5 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
+  # As a user I can see one garden's plants
+  # As a user I can add a plant in a garden
+  # As a user I can delete a plant
 end
